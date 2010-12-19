@@ -1,4 +1,4 @@
 test:
-	@NODE_ENV=echo ok
+	@echo ok
 
 .PHONY: test
