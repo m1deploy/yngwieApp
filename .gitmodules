@@ -1,0 +1,3 @@
+[submodule "sub/derridaApp"]
+	path = sub/derridaApp
+	url = git://github.com/m1deploy/derridaApp.git
