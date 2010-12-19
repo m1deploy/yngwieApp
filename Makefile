@@ -1,4 +1,4 @@
 test:
-	@echo ok
+	echo ok
 
 .PHONY: test
